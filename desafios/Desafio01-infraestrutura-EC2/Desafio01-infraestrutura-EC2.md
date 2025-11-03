@@ -11,7 +11,7 @@ Este repositório é para documentar a prática realizada para o gerenciamento d
 
 ## Diagrama da Arquitetura  
 
-![Diagrama EC2 AWS](/diagrama-ec2.jpg)  
+![Diagrama EC2 AWS](/desafios/Desafio01-infraestrutura-EC2/diagrama-ec2.jpg)  
 
  
 - **Cliente:** é o usuário que acessa o console da AWS para criar e gerenciar os recursos.  
